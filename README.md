@@ -7,13 +7,13 @@ Simulates up to 1,000 full Yahtzee games
 
 Tracks occurrences of:
 
-No pairs
+1. No pairs
 
-One pair
+2. One pair
 
-Three of a kind
+3. Three of a kind
 
-Four of a kind
+4. Four of a kind
 
 Yahtzee
 
